@@ -1,1 +1,0 @@
-Commit content for 2017-03-01 00:00:00 - test: Mock external dependencies for faster tests

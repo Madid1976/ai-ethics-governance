@@ -1,1 +1,0 @@
-Commit content for 2020-12-08 00:00:00 - test: Mock external dependencies for faster tests

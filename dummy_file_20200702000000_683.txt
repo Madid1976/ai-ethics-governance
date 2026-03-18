@@ -1,1 +1,0 @@
-Commit content for 2020-07-02 00:00:00 - docs: Update installation instructions

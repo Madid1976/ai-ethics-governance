@@ -1,1 +1,0 @@
-Commit content for 2018-04-16 00:00:00 - test: Mock external dependencies for faster tests

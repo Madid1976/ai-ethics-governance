@@ -1,1 +1,0 @@
-Commit content for 2017-11-08 00:00:00 - chore: Automate release process with semantic-release

@@ -1,1 +1,0 @@
-Commit content for 2017-07-07 00:00:00 - style: Format code according to PEP8 guidelines

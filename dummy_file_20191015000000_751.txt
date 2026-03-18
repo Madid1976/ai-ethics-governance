@@ -1,1 +1,0 @@
-Commit content for 2019-10-15 00:00:00 - chore: Automate release process with semantic-release
